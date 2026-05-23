@@ -10,10 +10,11 @@ Computer background (BCS, MCA) exploring:
 - GitHub projects
 - AI evaluation work
 
-Currently building:
-• Portfolio
-• Remote work profile
-• AI/data annotation skills
+Current Projects:
+• Building portfolio website
+• Learning AI evaluation workflows
+• Exploring affiliate systems
+• Developing GitHub repositories
 
 Languages:
 Hindi | English
