@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tanvesh 👋
 
-<!--
-**11tanvesh11/11tanvesh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer background (BCS, MCA) exploring:
 
-Here are some ideas to get you started:
+- AI tools
+- Web development
+- Python
+- Affiliate systems
+- Digital products
+- GitHub projects
+- AI evaluation work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+• Portfolio
+• Remote work profile
+• AI/data annotation skills
+
+Languages:
+Hindi | English
